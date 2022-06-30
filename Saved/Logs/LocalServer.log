@@ -1396,3 +1396,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.30-09.08.49:469][285]LogHttp: Warning: 000001CB9533A400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
 [2022.06.30-09.08.49:469][285]LogHttp: Warning: 000001CB9533A400: libcurl info message cache 1 (Closing connection 6)
 [2022.06.30-09.08.49:483][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B51CA9A09-46BA-EBD6-FCF3-5EA0DE15D0CC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=c9a4101442aa11f3228c289dd181b164%7C4659edb32fa7473c9a096a9067c9888f%7C32619bcb-17cd-43ec-874d-ded5bc9cd57b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.30-09.09.03:602][528]LogSavePackage: Moving '../../../../../../Users/mehdi/Documents/GitHub/ThirdPersonPeroject/Saved/BP_PlayerController41FABDE34355BB519E36F2A81C4959A2.tmp' to '../../../../../../Users/mehdi/Documents/GitHub/ThirdPersonPeroject/Content/MehdiThirdPersonBP/Blueprints/Core/BP_PlayerController.uasset'
+[2022.06.30-09.09.03:621][528]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.06.30-09.09.03:621][528]LogContentValidation: Display: Validating Blueprint /Game/MehdiThirdPersonBP/Blueprints/Core/BP_PlayerController.BP_PlayerController
